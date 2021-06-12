@@ -17,8 +17,6 @@ export const HeaderAppBar = styled(AppBar)`
       justify-content: center;
     }
   }
-
-
 `;
 
 export const HeaderLogo = styled('img')`
