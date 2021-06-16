@@ -81,8 +81,8 @@ export default function Home() {
                     ...e mais{' '}
                     {diaristasRestantes} 
                     {diaristasRestantes > 1
-                    ? 'profissionais atendem '
-                    : 'profissinal atende '}
+                    ? ' profissionais atendem '
+                    : ' profissinal atende '}
                     ao se endereço
                   </Typography>
                 )}
